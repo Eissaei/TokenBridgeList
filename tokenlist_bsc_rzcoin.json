@@ -28,6 +28,38 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/rzcoin_logo.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/usdt_logo.png"
+    },
+    {
+      "name": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/eth_logo.png"
+    },
+    {
+      "name": "BTC",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/btc_logo.png"
+    },
+    {
+      "name": "MGC",
+      "address": "0xbb73BB2505AC4643d5C0a99c2A1F34B3DfD09D11",
+      "symbol": "MGC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/mgc_logo.png"
     }
   ]
 }
