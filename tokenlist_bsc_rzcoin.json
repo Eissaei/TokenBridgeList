@@ -20,6 +20,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/bsc_logo.png"
+    },
+     {
+      "name": "WRZ",
+      "address": "0xc70697c946548fb8ab43c51b26f851d17a992b7c",
+      "symbol": "WRZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/rzcoin_logo.png"
     }
   ]
 }
