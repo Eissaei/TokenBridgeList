@@ -61,7 +61,7 @@
       "name": "MGC",
       "address": "0xbb73BB2505AC4643d5C0a99c2A1F34B3DfD09D11",
       "symbol": "MGC",
-      "decimals": 18,
+      "decimals": 9,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/mgc_logo.png"
     }
