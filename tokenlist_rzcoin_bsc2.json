@@ -28,6 +28,15 @@
       "decimals": 9,
       "chainId": 59671,
       "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/mgc_logo.png"
+    },
+    
+    {
+      "name": "INSURANCE Token",
+      "address": "0x64e4fea6e4f3637025c7bcd878e2b238b01f7d4e",
+      "symbol": "INSURANCE",
+      "decimals": 18,
+      "chainId": 59671,
+      "logoURI": "https://raw.githubusercontent.com/Eissaei/TokenBridgeList/main/mgc_logo.png"
     }
   ]
 }
